@@ -11,7 +11,7 @@ public class UE5A2 {
     public static void main (String[] args) {
 
         int alter;
-        System.out.println("Geben Sie ein alter ein: ");
+        System.out.println("Geben Sie ein Alter ein: ");
         alter = in.nextInt();
 
         if (Wahlrecht(alter) == true) {
