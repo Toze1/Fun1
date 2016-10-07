@@ -12,7 +12,7 @@ public class Taschenrechnerklein {
         int endoption;
 
         do {
-            System.out.println("Hallo lieber Nutzer!");
+            System.out.println("Hallo lieber Nutzer!1");
             System.out.println("Bitte 1. Zahl eingeben: ");
             int x = in.nextInt();
             System.out.println("Bitte 2. Zahl eingeben: ");
